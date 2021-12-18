@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/Courses"
+        android:icon="@drawable/course"
+        android:title="@string/courses" />
+    <item
+        android:id="@+id/Student"
+        android:icon="@drawable/student"
+        android:title="@string/student" />
+    <item
+        android:id="@+id/Sections"
+        android:icon="@drawable/section"
+        android:title="@string/sections" />
+
+</menu>
